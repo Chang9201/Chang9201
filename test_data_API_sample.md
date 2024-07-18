@@ -58,7 +58,7 @@ The following is a sample response from the testinfo/{testId} endpoint:
 
 ```
 
-Response definitions
+## Response definitions
 
 The following table describes each item in the response.
 
