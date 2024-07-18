@@ -31,7 +31,7 @@ All of my professional work up to this point is confidential, but I have attache
 
 ## Work Experience
 
-### Engineering Program Manager, Test | Apple Inc. | Feb 2020 - May 2024
+### Engineering Program Manager, Test | Apple Inc. | May 2022 - May 2024
 
 Design tooling solutions for safe and traceable execution of tests for autonomous systems.  Iteratively developed solutions reduced incorrectly executed tests by 89% over the course of 6 months.
 
@@ -41,7 +41,15 @@ Curate and document changes to test suites in TestRail with the roll-out of feat
 
 Document safety policies and procedures for testing via requirements management software (Polarion), and ensure changes to policies are communicated out to testers via various different delivery strategies (Confluence, daily briefs, push notifications via internal tooling, etc.)
 
-### Technical Writer | Apple Inc. | Nov 2018 - Feb 2020
+### Technical Writing Program Manager | Apple Inc. | Dec 2019 - May 2022
+
+Develop and drive strategic improvements to development/maintenance of the documentation space. Developed Tableau views highlighting KPIs, workflows for creating release notes for internal tools (software & hardware), and traceable documentation review workflows.
+
+Create a data-driven, user-friendly organzational tree for the documentation space by engaging a team of external consultants skilled in performing UI/UX research, increasing view count throughout the documentation space by 47%. Collaborated with user study groups within Apple to adopt UI/UX research best practices in surveys, card sort exercises, and whiteboarding sessions with power users/key stakeholders for the documentation space.
+
+Perform gap analysis on internal documentation needs based on collaboration with software engineering, legal, and operations teams. For identified gaps, scope projects and identify strategies for creation, maintenance, and external communication strategies for new documents/spaces.
+
+### Technical Writer | Apple Inc. | Nov 2018 - Dec 2019
 
 Collaborate with Software Development, Safety, and Operations teams to 1) identify risks associated with each new release of test platform software and 2) create operational policies to mitigate potential risks.
 
@@ -65,6 +73,7 @@ Collaborate with legal and regulatory teams to document safety-critical processe
 - Content Management Systems
 - Program Management
 - Process Engineering
+- Tableau
 - Technical Writing (REST API, hardware/software application user manuals)
 
 ## Certifications
