@@ -17,6 +17,10 @@ I'm a passionate professional who loves helping others succeed, whether that be 
 
 All of my professional work up to this point is confidential, but I have attached non-confidential writing samples below.
 
+[Test Data API Documentation](https://github.com/Chang9201/Chang9201/blob/main/test_data_API_sample.md)
+
+- This writing sample highlights my skills in API documentation.
+
 [Documentation Management Solution](https://docs.google.com/document/d/15r1bO6mtkMOjwfM_OK-djxv9IdUNTELwbKTaBQRQ45w/edit)
 
 - This writing sample highlights my skills in proposal/process documentation.
@@ -61,7 +65,7 @@ Collaborate with legal and regulatory teams to document safety-critical processe
 - Content Management Systems
 - Program Management
 - Process Engineering
-- Technical Writing
+- Technical Writing (REST API, hardware/software application user manuals)
 
 ## Certifications
 
