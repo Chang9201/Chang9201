@@ -1,6 +1,6 @@
 # Testinfo
 
-Contains information about ground truth for a test instance, including information on time, personnel, and result.
+Contains information about ground truth for a test instance including information on test events, personnel, and result.
 
 ## Endpoints
 
