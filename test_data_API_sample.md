@@ -12,7 +12,9 @@ Gets test information for a specific test ID.
 
 ### Path Parameters
 
-{testId} - The specific test ID for the test you want to look up. Values are available from appleinternaltoolexample.com.
+| Path parameter | Description |
+| ------------- | ------------- |
+| [testId] | The unique identifier for the test you want to look up. Valid testId values are available from the <sample internal tool> site at sampleurl.com. |
 
 ### Query string parameters
 
@@ -43,10 +45,9 @@ The following is a sample response from the testinfo/{testId} endpoint:
             "testend": {
                   "1234567890
         },
-            "testpersonnel": {
+            "1234567": {
               "name": "John Doe"
               "role": "Test Engineer"
-              "emmployeeID": 1234567
           },
             "testresult": {
               "PASS"
@@ -64,7 +65,9 @@ The following table describes each item in the response.
 | Response item | Description | Data Type |
 | ------------- | ------------- | ------------- |
 | testId | Unique identifier for the test in the original request. | Integer |
-| {testevent} | Optional |  Information regarding personnel who executed the test. | String |
-| testresult | Optional | Result of the test. | String, possible values are "PASS," "FAIL," or "UNKNOWN." |
-
-
+| {teststart} | Start time for test in Unix timestamp. | Integer |
+| {testend} | End time for test in Unix timestamp. | Integer |
+| {employeeId} | Unique identifier for the test personnel that executed the test. | Integer |
+| {employeeId}/name | First and last name of the employee. | String |
+| {employeeId}/role | Role of the employee. | Object |
+| {testresult} | Result of the test. | Object |
