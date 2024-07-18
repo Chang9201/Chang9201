@@ -16,7 +16,6 @@ Gets test information for a specific test ID.
 
 ### Query string parameters
 
-
 | Query string parameter | Required/optional | Description | Type |
 | ------------- | ------------- | ------------- | ------------- |
 | teststart | Optional | Time when the test was started. | Integer, unix format in MST |
@@ -24,11 +23,12 @@ Gets test information for a specific test ID.
 | testpersonnel | Optional | Names (first and last name) of personnel who executed the test. | String |
 | testresult | Optional | Result of the test. | String, possible values are "PASS," "FAIL," or "UNKNOWN." |
 
+## Sample request
 
-teststarttime - The start time Integer. Unix format in MST
-testendtime - Integer. Unix format in MST
-testpersonnel - 
-testresult
+```
+curl -I -X GET "https://api.testinfo.org/data/sampleurl"
+
+```
 
 
 
