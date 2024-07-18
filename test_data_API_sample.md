@@ -17,7 +17,7 @@ Gets test information for a specific test ID.
 ### Query string parameters
 
 
-| First Header  | Second Header |
+| Query string parameter  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
