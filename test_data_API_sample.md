@@ -15,3 +15,16 @@ Gets test information for a specific test ID.
 {testID} - The specific test ID for the test you want to look up. Values are available from appleinternaltoolexample.com.
 
 ### Query string parameters
+
+| Query String parameter  | Required/optional | Description | Type |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+teststarttime - The start time Integer. Unix format in MST
+testendtime - Integer. Unix format in MST
+testpersonnel - 
+testresult
+
+
+
