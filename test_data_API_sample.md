@@ -19,15 +19,11 @@ Gets test information for a specific test ID.
 
 | Query string parameter | Required/optional | Description | Type |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| teststart | Optional | Time when the test was started. | Integer, unix format in MST |
+| testend | Optional | Time when the test finished running. | Integer, unix format in MST |
+| testpersonnel | Optional | Names (first and last name) of personnel who executed the test. | String |
+| testresult | Optional | Result of the test. | String, possible values are "PASS," "FAIL," or "UNKNOWN." |
 
-
-
-| Query String parameter  | Required/optional | Description | Type |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 teststarttime - The start time Integer. Unix format in MST
 testendtime - Integer. Unix format in MST
