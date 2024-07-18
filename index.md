@@ -21,9 +21,9 @@ All of my professional work up to this point is confidential, but I have attache
 
 - This writing sample highlights my skills in proposal/process documentation.
 
-[Software Release Notes]
+[Script for Instructional Video](https://docs.google.com/document/d/1F0VHl_60LHBna4p-6GGUBijN_L8e3WWstTfK6FwRvWA/edit)
 
-- This writing sample highlights my ability to compile release notes for a non-technical audience.
+- This writing sample highlights my ability to write scripts when needed for instructional/informational video productions.
 
 ## Work Experience
 
