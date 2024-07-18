@@ -8,6 +8,7 @@ I'm a passionate professional who loves helping others succeed, whether that be 
 ## Contact
 
 [Email](mailto:spinort8908468@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/chang-woo-seo-865238a3)
 
 ## Links
