@@ -15,11 +15,9 @@ I'm a passionate professional who loves helping others succeed, whether that be 
 
 ### Writing Samples
 
-[Systematic Gating Solution for Test]
+All of my professional work up to this point is confidential, but I have attached non-confidential writing samples below.
 
-- This writing sample highlights my skills in proposal documentation, as well as my ability to architect solutions.
-
-[Documentation Management Solution]
+[Documentation Management Solution](https://docs.google.com/document/d/15r1bO6mtkMOjwfM_OK-djxv9IdUNTELwbKTaBQRQ45w/edit)
 
 - This writing sample highlights my skills in proposal/process documentation.
 
