@@ -17,10 +17,11 @@ Gets test information for a specific test ID.
 ### Query string parameters
 
 
-| Query string parameter | Required/optional | Description | Type
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Query string parameter | Required/optional | Description | Type |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
 
 
 | Query String parameter  | Required/optional | Description | Type |
