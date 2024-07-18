@@ -67,7 +67,7 @@ The following table describes each item in the response.
 | testId | Unique identifier for the test in the original request. | Integer |
 | {teststart} | Start time for test in Unix timestamp. | Integer |
 | {testend} | End time for test in Unix timestamp. | Integer |
-| {employeeId} | Unique identifier for the test personnel that executed the test. | Integer |
+| {employeeId} | Badge number for the test personnel that executed the test. Employee badge numbers can be found in the internal employee directory. | Integer |
 | {employeeId}/name | First and last name of the employee. | String |
 | {employeeId}/role | Role of the employee. | Object |
 | {testresult} | Result of the test. | Object |
